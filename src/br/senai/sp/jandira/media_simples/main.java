@@ -1,0 +1,4 @@
+package br.senai.sp.jandira.media_simples;
+
+public class main {
+}
